@@ -34,7 +34,7 @@ Dedicated Network Engineer specializing in designing, configuring, and securing 
 | Routing Protocols | OSPF, EIGRP, Static Routing, Inter-VLAN Routing |
 | Switching & Layer 2 | VLANs, Trunking (802.1Q), Spanning Tree Protocol (STP) |
 | Security & Services | Access Control Lists (ACLs), NAT/PAT, DHCP, DNS, TCP/IP Suite, IPv4 & IPv6 Subnetting|
-| Simulators & Tools | Cisco Packet Tracer, GNS3, Wireshark, VS Code[cite: 2] |
+| Simulators & Tools | Cisco Packet Tracer, GNS3, Wireshark, VS Code |
 | Network Automation & OS | Python for Network Scripting, Linux (Ubuntu), Git/GitHub |
 
 ---
