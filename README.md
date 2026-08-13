@@ -19,7 +19,7 @@ Dedicated Network Engineer specializing in designing, configuring, and securing 
  Networking Certifications & Professional Training
 
 -  Cisco Certified Network Associate (CCNA) – Engovation
-- Advanced Routing (OSPF, EIGRP, Static), Switching Architectures (VLANs, STP, Trunking), IPv4/IPv6 Subnetting, Network Security Dynamics (ACLs, NAT/PAT), and Infrastructure Services[cite: 2].
+- Advanced Routing (OSPF, EIGRP, Static), Switching Architectures (VLANs, STP, Trunking), IPv4/IPv6 Subnetting, Network Security Dynamics (ACLs, NAT/PAT), and Infrastructure Services.
 - HCIA Routing and Switching V2.5 – Huawei ICT Academy
 -Enterprise network topology planning, IP routing protocol implementation, and Huawei hardware switching configurations.
 - Google IT Support & Networking Fundamentals – Coursera / Google
@@ -31,21 +31,21 @@ Dedicated Network Engineer specializing in designing, configuring, and securing 
 
 | Domain | Protocols & Technologies |
 | :--- | :--- |
-| **Routing Protocols | OSPF, EIGRP, Static Routing, Inter-VLAN Routing |
-| **Switching & Layer 2 | VLANs, Trunking (802.1Q), Spanning Tree Protocol (STP) |
-| **Security & Services | Access Control Lists (ACLs), NAT/PAT, DHCP, DNS, TCP/IP Suite, IPv4 & IPv6 Subnetting|
-| **Simulators & Tools | Cisco Packet Tracer, GNS3, Wireshark, VS Code[cite: 2] |
-| **Network Automation & OS | Python for Network Scripting, Linux (Ubuntu), Git/GitHub |
+| Routing Protocols | OSPF, EIGRP, Static Routing, Inter-VLAN Routing |
+| Switching & Layer 2 | VLANs, Trunking (802.1Q), Spanning Tree Protocol (STP) |
+| Security & Services | Access Control Lists (ACLs), NAT/PAT, DHCP, DNS, TCP/IP Suite, IPv4 & IPv6 Subnetting|
+| Simulators & Tools | Cisco Packet Tracer, GNS3, Wireshark, VS Code[cite: 2] |
+| Network Automation & OS | Python for Network Scripting, Linux (Ubuntu), Git/GitHub |
 
 ---
 
   Featured Network Topologies & Labs
 
-- Enterprise Multi-VLAN Infrastructure Setup:** Inter-VLAN routing with OSPF dynamic routing and ACL security rules.
-- Network Infrastructure Services Deployment:** Configuring dynamic IP allocation (DHCP) and DNS integration.
+- Enterprise Multi-VLAN Infrastructure Setup: Inter-VLAN routing with OSPF dynamic routing and ACL security rules.
+- Network Infrastructure Services Deployment: Configuring dynamic IP allocation (DHCP) and DNS integration.
 
 ---
 
  Connect with Me
--  Email: abdelrahman.ali.0478422@gmail.com[cite: 2]
+-  Email: abdelrahman.ali.0478422@gmail.com
 -  LinkedIn: [linkedin.com/in/abdelrahman-ali-6bbb93429](https://www.linkedin.com/in/abdelrahman-ali-6bbb93429)
